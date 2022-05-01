@@ -161,10 +161,3 @@ plt.show()
 plt.close()
 
 
-'''
-Submitted By
-1. Arpit Raghav(201584085)
-2. Ramit Magan(201597470)
-3. Shivam Nareshkumar Sharma(201598809)
-4. Keerthi Raj Shashikala Rajanna(201598719)
-'''
